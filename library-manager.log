@@ -1,0 +1,666 @@
+Loading the ModusToolbox Technology Packs and Early Access Packs
+Finished loading the ModusToolbox Technology Packs and Early Access Packs (1 ms)
+Loading the tools information
+Finished loading the tools information (3 ms)
+Loading the application in directory '/Users/socaresabol/Downloads/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template'
+using cached data from file '/Users/socaresabol/Downloads/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/.mtbqueryapi'
+creating application information from 'get_app_info' data
+finished creating application information from 'get_app_info' data (6 ms)
+Finished loading the application data (21 ms total, 0 make)
+Loading asset repository references
+Finished loading the asset repository references (31 ms)
+Loading the manifest data
+Loading super manfiest files from all sources
+Processing manifest pack file '/Users/socaresabol/Applications/ModusToolbox/packs/ModusToolbox-Machine-Learning-Pack/manifest.xml'
+Downloading super manifest file 'file:///Users/socaresabol/Applications/ModusToolbox/packs/ModusToolbox-Machine-Learning-Pack/manifest.xml'
+Getting manifests from remote and/or local sources
+Processing system manifest 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading super manifest file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished loading super manifest files from all sources
+Finished download of file 'file:///Users/socaresabol/Applications/ModusToolbox/packs/ModusToolbox-Machine-Learning-Pack/manifest.xml'
+Starting to parse super manifest with URL 'file:///Users/socaresabol/Applications/ModusToolbox/packs/ModusToolbox-Machine-Learning-Pack/manifest.xml'
+Finished parsing super manifest with URL 'file:///Users/socaresabol/Applications/ModusToolbox/packs/ModusToolbox-Machine-Learning-Pack/manifest.xml'
+Downloading manifest file 'file:///Users/socaresabol/Applications/ModusToolbox/packs/ModusToolbox-Machine-Learning-Pack/manifests/mtb-ml-ce-manifest.xml'
+Finished download of file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Starting to parse super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished parsing super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Altia-Marketing/altia-ce-manifest/raw/main/altia-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-ce-manifest/raw/main/avnet-iotc-mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-ce-manifest/raw/main/rutronik-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/sensiml/sensiml-ce-manifest/raw/main/sensiml-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-capabilities-manifest.json'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-mw-manifest/raw/main/avnet-iotc-mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/sensiml/sensiml-mw-manifest/raw/main/sensiml-mw-manifest-fv2.xml'
+Finished download of file 'file:///Users/socaresabol/Applications/ModusToolbox/packs/ModusToolbox-Machine-Learning-Pack/manifests/mtb-ml-ce-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/Altia-Marketing/altia-ce-manifest/raw/main/altia-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-ce-manifest/raw/main/avnet-iotc-mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-ce-manifest/raw/main/rutronik-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/sensiml/sensiml-ce-manifest/raw/main/sensiml-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-capabilities-manifest.json'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-mw-manifest/raw/main/avnet-iotc-mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/sensiml/sensiml-mw-manifest/raw/main/sensiml-mw-manifest-fv2.xml'
+Finished loading the manifest data (2066 ms)
+Starting to refresh dependencies for project 'mtb-example-psoc6-freertos-wifi-mqtt-client'.
+Refreshed all dependencies for project 'mtb-example-psoc6-freertos-wifi-mqtt-client'.
+Warning: Multiple versions of "https://github.com/cypresssemiconductorco/core-make" requested. Keeping version "release-v3.0.3" and discarding version "release-v3.0.2".
+
+0 error(s), 1 warning(s)
+Successfully acquired the information.
+
+Loading the ModusToolbox Technology Packs and Early Access Packs
+Finished loading the ModusToolbox Technology Packs and Early Access Packs (1 ms)
+Loading the tools information
+Finished loading the tools information (3 ms)
+Loading the application in directory '/Users/socaresabol/Downloads/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template'
+using cached data from file '/Users/socaresabol/Downloads/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/.mtbqueryapi'
+creating application information from 'get_app_info' data
+finished creating application information from 'get_app_info' data (6 ms)
+Finished loading the application data (21 ms total, 0 make)
+Loading asset repository references
+Finished loading the asset repository references (31 ms)
+Loading the manifest data
+Loading super manfiest files from all sources
+Processing manifest pack file '/Users/socaresabol/Applications/ModusToolbox/packs/ModusToolbox-Machine-Learning-Pack/manifest.xml'
+Downloading super manifest file 'file:///Users/socaresabol/Applications/ModusToolbox/packs/ModusToolbox-Machine-Learning-Pack/manifest.xml'
+Getting manifests from remote and/or local sources
+Processing system manifest 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading super manifest file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished loading super manifest files from all sources
+Finished download of file 'file:///Users/socaresabol/Applications/ModusToolbox/packs/ModusToolbox-Machine-Learning-Pack/manifest.xml'
+Starting to parse super manifest with URL 'file:///Users/socaresabol/Applications/ModusToolbox/packs/ModusToolbox-Machine-Learning-Pack/manifest.xml'
+Finished parsing super manifest with URL 'file:///Users/socaresabol/Applications/ModusToolbox/packs/ModusToolbox-Machine-Learning-Pack/manifest.xml'
+Downloading manifest file 'file:///Users/socaresabol/Applications/ModusToolbox/packs/ModusToolbox-Machine-Learning-Pack/manifests/mtb-ml-ce-manifest.xml'
+Finished download of file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Starting to parse super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished parsing super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Altia-Marketing/altia-ce-manifest/raw/main/altia-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-ce-manifest/raw/main/avnet-iotc-mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-ce-manifest/raw/main/rutronik-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/sensiml/sensiml-ce-manifest/raw/main/sensiml-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-capabilities-manifest.json'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-mw-manifest/raw/main/avnet-iotc-mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/sensiml/sensiml-mw-manifest/raw/main/sensiml-mw-manifest-fv2.xml'
+Finished download of file 'file:///Users/socaresabol/Applications/ModusToolbox/packs/ModusToolbox-Machine-Learning-Pack/manifests/mtb-ml-ce-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/Altia-Marketing/altia-ce-manifest/raw/main/altia-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-ce-manifest/raw/main/avnet-iotc-mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-ce-manifest/raw/main/rutronik-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/sensiml/sensiml-ce-manifest/raw/main/sensiml-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-capabilities-manifest.json'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/avnet-iotconnect/avnet-iotc-mtb-mw-manifest/raw/main/avnet-iotc-mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/sensiml/sensiml-mw-manifest/raw/main/sensiml-mw-manifest-fv2.xml'
+Finished loading the manifest data (2066 ms)
+Starting to refresh dependencies for project 'mtb-example-psoc6-freertos-wifi-mqtt-client'.
+Refreshed all dependencies for project 'mtb-example-psoc6-freertos-wifi-mqtt-client'.
+Warning: Multiple versions of "https://github.com/cypresssemiconductorco/core-make" requested. Keeping version "release-v3.0.3" and discarding version "release-v3.0.2".
+
+
+Changelog for project "FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template":
+device-db version release-v4.17.0 added
+wifi-host-driver updated: changed commit from release-v2.5.0 to release-v3.2.0
+core-make updated: changed commit from release-v3.0.2 to release-v3.0.3
+
+Click "Update" to commit the changes
+0 error(s), 1 warning(s)
+Successfully acquired the information.Updating application "FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template" ...
+Starting to commit changes to the filesystem and project 'mtb-example-psoc6-freertos-wifi-mqtt-client'.
+Writing mtb file for asset 'device-db' to the folder '/Users/socaresabol/Downloads/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/libs'.
+Removed the file '/Users/socaresabol/Downloads/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/libs/wifi-host-driver.mtb'.
+Writing mtb file for asset 'wifi-host-driver' to the folder '/Users/socaresabol/Downloads/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/libs'.
+Removed the file '/Users/socaresabol/Downloads/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/libs/core-make.mtb'.
+Writing mtb file for asset 'core-make' to the folder '/Users/socaresabol/Downloads/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/libs'.
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/BMI160_driver clone --origin cypress --no-checkout --filter=blob:none https://github.com/BoschSensortec/BMI160_driver bmi160_v3.9.1
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/BMM150-Sensor-API clone --origin cypress --no-checkout --filter=blob:none https://github.com/BoschSensortec/BMM150-Sensor-API bmm150_v2.0.0
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/capsense clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/capsense release-v3.0.0
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/kv-store clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/kv-store release-v1.1.0
+Cloning into 'bmm150_v2.0.0'...
+Cloning into 'bmi160_v3.9.1'...
+Cloning into 'release-v3.0.0'...
+Cloning into 'release-v1.1.0'...
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/kv-store clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/kv-store release-v1.1.0
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/middleware-ntshell clone --origin cypress --no-checkout --filter=blob:none https://github.com/iotexpert/middleware-ntshell latest-v2.X
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/BMI160_driver clone --origin cypress --no-checkout --filter=blob:none https://github.com/BoschSensortec/BMI160_driver bmi160_v3.9.1
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/mqtt clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/mqtt release-v3.4.2
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/BMM150-Sensor-API clone --origin cypress --no-checkout --filter=blob:none https://github.com/BoschSensortec/BMM150-Sensor-API bmm150_v2.0.0
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/retarget-io clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/retarget-io release-v1.3.0
+Cloning into 'latest-v2.X'...
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/capsense clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/capsense release-v3.0.0
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/rgb-led clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/rgb-led release-v1.2.1
+Cloning into 'release-v3.4.2'...
+Cloning into 'release-v1.3.0'...
+Cloning into 'release-v1.2.1'...
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/retarget-io clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/retarget-io release-v1.3.0
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/sensor-orientation-bmx160 clone --origin cypress --no-checkout --filter=blob:none https://github.com/infineon/sensor-orientation-bmx160 release-v1.0.1
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/rgb-led clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/rgb-led release-v1.2.1
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/sensor-xensiv-dps3xx clone --origin cypress --no-checkout --filter=blob:none https://github.com/infineon/sensor-xensiv-dps3xx release-v1.0.0
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/middleware-ntshell clone --origin cypress --no-checkout --filter=blob:none https://github.com/iotexpert/middleware-ntshell latest-v2.X
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/serial-flash clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/serial-flash release-v1.3.0
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/mqtt clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/mqtt release-v3.4.2
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/wifi-core-freertos-lwip-mbedtls clone --origin cypress --no-checkout --filter=blob:none https://github.com/Infineon/wifi-core-freertos-lwip-mbedtls release-v1.0.0
+Cloning into 'release-v1.0.1'...
+Cloning into 'release-v1.0.0'...
+Cloning into 'release-v1.3.0'...
+Cloning into 'release-v1.0.0'...
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/sensor-orientation-bmx160 clone --origin cypress --no-checkout --filter=blob:none https://github.com/infineon/sensor-orientation-bmx160 release-v1.0.1
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/abstraction-rtos clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/abstraction-rtos release-v1.6.0
+Cloning into 'release-v1.6.0'...
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/sensor-xensiv-dps3xx clone --origin cypress --no-checkout --filter=blob:none https://github.com/infineon/sensor-xensiv-dps3xx release-v1.0.0
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C clone --origin cypress --no-checkout --filter=blob:none https://github.com/aws/aws-iot-device-sdk-embedded-C 202103.00
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/serial-flash clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/serial-flash release-v1.3.0
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-port clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/aws-iot-device-sdk-port release-v2.2.2
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/wifi-core-freertos-lwip-mbedtls clone --origin cypress --no-checkout --filter=blob:none https://github.com/Infineon/wifi-core-freertos-lwip-mbedtls release-v1.0.0
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/cat1cm0p clone --origin cypress --no-checkout --filter=blob:none https://github.com/Infineon/cat1cm0p release-v1.0.0
+Cloning into '202103.00'...
+Cloning into 'release-v2.2.2'...
+Cloning into 'release-v1.0.0'...
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/abstraction-rtos clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/abstraction-rtos release-v1.6.0
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/clib-support clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/clib-support release-v1.3.0
+Cloning into 'release-v1.3.0'...
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/cat1cm0p clone --origin cypress --no-checkout --filter=blob:none https://github.com/Infineon/cat1cm0p release-v1.0.0
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/cmsis clone --origin cypress --no-checkout --filter=blob:none https://github.com/Infineon/cmsis release-v5.8.0
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-port clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/aws-iot-device-sdk-port release-v2.2.2
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/connectivity-utilities clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/connectivity-utilities release-v4.0.0
+Cloning into 'release-v5.8.0'...
+Cloning into 'release-v4.0.0'...
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C clone --origin cypress --no-checkout --filter=blob:none https://github.com/aws/aws-iot-device-sdk-embedded-C 202103.00
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/core-lib clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/core-lib release-v1.3.1
+Cloning into 'release-v1.3.1'...
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/clib-support clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/clib-support release-v1.3.0
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/cy-mbedtls-acceleration clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/cy-mbedtls-acceleration release-v1.4.1
+Cloning into 'release-v1.4.1'...
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/cmsis clone --origin cypress --no-checkout --filter=blob:none https://github.com/Infineon/cmsis release-v5.8.0
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/freertos clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/freertos release-v10.4.304
+Cloning into 'release-v10.4.304'...
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/connectivity-utilities clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/connectivity-utilities release-v4.0.0
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/lwip-freertos-integration clone --origin cypress --no-checkout --filter=blob:none https://github.com/Infineon/lwip-freertos-integration release-v1.0.0
+Cloning into 'release-v1.0.0'...
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/core-lib clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/core-lib release-v1.3.1
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/lwip-network-interface-integration clone --origin cypress --no-checkout --filter=blob:none https://github.com/Infineon/lwip-network-interface-integration release-v1.0.0
+Cloning into 'release-v1.0.0'...
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/cy-mbedtls-acceleration clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/cy-mbedtls-acceleration release-v1.4.1
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/lwip clone --origin cypress --no-checkout --filter=blob:none https://git.savannah.nongnu.org/git/lwip STABLE-2_1_2_RELEASE
+Cloning into 'STABLE-2_1_2_RELEASE'...
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/lwip-freertos-integration clone --origin cypress --no-checkout --filter=blob:none https://github.com/Infineon/lwip-freertos-integration release-v1.0.0
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/mbedtls clone --origin cypress --no-checkout --filter=blob:none https://github.com/ARMmbed/mbedtls mbedtls-2.25.0
+Cloning into 'mbedtls-2.25.0'...
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/freertos clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/freertos release-v10.4.304
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/mtb-hal-cat1 clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/mtb-hal-cat1 release-v2.2.0
+Cloning into 'release-v2.2.0'...
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/lwip-network-interface-integration clone --origin cypress --no-checkout --filter=blob:none https://github.com/Infineon/lwip-network-interface-integration release-v1.0.0
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/mtb-pdl-cat1 clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/mtb-pdl-cat1 release-v3.2.0
+Cloning into 'release-v3.2.0'...
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/mtb-hal-cat1 clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/mtb-hal-cat1 release-v2.2.0
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/recipe-make-cat1a clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/recipe-make-cat1a release-v2.0.0
+Cloning into 'release-v2.0.0'...
+warning: filtering not recognized by server, ignoring
+warning: filtering not recognized by server, ignoring
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/mtb-pdl-cat1 clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/mtb-pdl-cat1 release-v3.2.0
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/secure-sockets clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/secure-sockets release-v3.0.0
+Cloning into 'release-v3.0.0'...
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/recipe-make-cat1a clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/recipe-make-cat1a release-v2.0.0
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/whd-bsp-integration clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/whd-bsp-integration release-v2.1.0
+Cloning into 'release-v2.1.0'...
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/secure-sockets clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/secure-sockets release-v3.0.0
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/wifi-connection-manager clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/wifi-connection-manager release-v3.0.0
+Cloning into 'release-v3.0.0'...
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/whd-bsp-integration clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/whd-bsp-integration release-v2.1.0
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/wpa3-external-supplicant clone --origin cypress --no-checkout --filter=blob:none https://github.com/Infineon/wpa3-external-supplicant release-v1.1.0
+Cloning into 'release-v1.1.0'...
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/wifi-connection-manager clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/wifi-connection-manager release-v3.0.0
+Starting: git -C /Users/socaresabol/.modustoolbox/global/device-db clone --origin cypress --no-checkout --filter=blob:none https://github.com/Infineon/device-db release-v4.17.0
+Cloning into 'release-v4.17.0'...
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/mbedtls clone --origin cypress --no-checkout --filter=blob:none https://github.com/ARMmbed/mbedtls mbedtls-2.25.0
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/wifi-host-driver clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/wifi-host-driver release-v3.2.0
+Cloning into 'release-v3.2.0'...
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/wpa3-external-supplicant clone --origin cypress --no-checkout --filter=blob:none https://github.com/Infineon/wpa3-external-supplicant release-v1.1.0
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/core-make clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/core-make release-v3.0.3
+Cloning into 'release-v3.0.3'...
+Success: git -C /Users/socaresabol/.modustoolbox/global/device-db clone --origin cypress --no-checkout --filter=blob:none https://github.com/Infineon/device-db release-v4.17.0
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/kv-store/release-v1.1.0 -c advice.detachedHead=false checkout release-v1.1.0 --force
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/wifi-host-driver clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/wifi-host-driver release-v3.2.0
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/BMI160_driver/bmi160_v3.9.1 -c advice.detachedHead=false checkout bmi160_v3.9.1 --force
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/core-make clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/core-make release-v3.0.3
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/BMM150-Sensor-API/bmm150_v2.0.0 -c advice.detachedHead=false checkout bmm150_v2.0.0 --force
+HEAD is now at 6d8e0a0 Upload kv-store 1.1.0.28441
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/kv-store/release-v1.1.0 -c advice.detachedHead=false checkout release-v1.1.0 --force
+Finished processing kv-store
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/capsense/release-v3.0.0 -c advice.detachedHead=false checkout release-v3.0.0 --force
+HEAD is now at a20641f Updated README.md
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/BMM150-Sensor-API/bmm150_v2.0.0 -c advice.detachedHead=false checkout bmm150_v2.0.0 --force
+Finished processing BMM150-Sensor-API
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/retarget-io/release-v1.3.0 -c advice.detachedHead=false checkout release-v1.3.0 --force
+HEAD is now at 3ac7bb6 Updated to v3.9.1. Fixed bugs in the sensor configuration. Added examples. Updated the callback interfaces.
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/BMI160_driver/bmi160_v3.9.1 -c advice.detachedHead=false checkout bmi160_v3.9.1 --force
+Finished processing BMI160_driver
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/rgb-led/release-v1.2.1 -c advice.detachedHead=false checkout release-v1.2.1 --force
+HEAD is now at 01dac81 Upload capsense 3.0.0.2705
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/capsense/release-v3.0.0 -c advice.detachedHead=false checkout release-v3.0.0 --force
+Finished processing capsense
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/middleware-ntshell/latest-v2.X -c advice.detachedHead=false checkout latest-v2.X --force
+HEAD is now at a61cd7c Upload retarget-io 1.3.0.25183
+HEAD is now at 8eb3fc2 Upload rgb-led 1.2.1.23328
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/retarget-io/release-v1.3.0 -c advice.detachedHead=false checkout release-v1.3.0 --force
+Finished processing retarget-io
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/mqtt/release-v3.4.2 -c advice.detachedHead=false checkout release-v3.4.2 --force
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/rgb-led/release-v1.2.1 -c advice.detachedHead=false checkout release-v1.2.1 --force
+Finished processing rgb-led
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/sensor-orientation-bmx160/release-v1.0.1 -c advice.detachedHead=false checkout release-v1.0.1 --force
+HEAD is now at b5468a9 fixed usrcmd template
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/middleware-ntshell/latest-v2.X -c advice.detachedHead=false checkout latest-v2.X --force
+Finished processing middleware-ntshell
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/sensor-xensiv-dps3xx/release-v1.0.0 -c advice.detachedHead=false checkout release-v1.0.0 --force
+HEAD is now at 0e492b3 Upload sensor-orientation-bmx160 1.0.1.25183
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/sensor-orientation-bmx160/release-v1.0.1 -c advice.detachedHead=false checkout release-v1.0.1 --force
+Finished processing sensor-orientation-bmx160
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/serial-flash/release-v1.3.0 -c advice.detachedHead=false checkout release-v1.3.0 --force
+HEAD is now at 75a512a Upload mqtt 3.4.2.1319
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/mqtt/release-v3.4.2 -c advice.detachedHead=false checkout release-v3.4.2 --force
+Finished processing mqtt
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/wifi-core-freertos-lwip-mbedtls/release-v1.0.0 -c advice.detachedHead=false checkout release-v1.0.0 --force
+HEAD is now at bdf5a3c Upload sensor-xensiv-dps3xx 1.0.0.23328
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/sensor-xensiv-dps3xx/release-v1.0.0 -c advice.detachedHead=false checkout release-v1.0.0 --force
+Finished processing sensor-xensiv-dps3xx
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/abstraction-rtos/release-v1.6.0 -c advice.detachedHead=false checkout release-v1.6.0 --force
+HEAD is now at be86442 Upload wifi-core-freertos-lwip-mbedtls 1.0.0.67
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/wifi-core-freertos-lwip-mbedtls/release-v1.0.0 -c advice.detachedHead=false checkout release-v1.0.0 --force
+Finished processing wifi-core-freertos-lwip-mbedtls
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/cat1cm0p/release-v1.0.0 -c advice.detachedHead=false checkout release-v1.0.0 --force
+HEAD is now at c7b55aa Upload serial-flash 1.3.0.27308
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/serial-flash/release-v1.3.0 -c advice.detachedHead=false checkout release-v1.3.0 --force
+Finished processing serial-flash
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-port/release-v2.2.2 -c advice.detachedHead=false checkout release-v2.2.2 --force
+HEAD is now at 7a3c39f Upload abstraction-rtos 1.6.0.29736
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/abstraction-rtos/release-v1.6.0 -c advice.detachedHead=false checkout release-v1.6.0 --force
+Finished processing abstraction-rtos
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00 -c advice.detachedHead=false checkout 202103.00 --force
+HEAD is now at b3d4b82 Upload cat1cm0p 1.0.0.148
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/cat1cm0p/release-v1.0.0 -c advice.detachedHead=false checkout release-v1.0.0 --force
+Finished processing cat1cm0p
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/clib-support/release-v1.3.0 -c advice.detachedHead=false checkout release-v1.3.0 --force
+HEAD is now at d3e0bca Upload clib-support 1.3.0.29736
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/clib-support/release-v1.3.0 -c advice.detachedHead=false checkout release-v1.3.0 --force
+Finished processing clib-support
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/cmsis/release-v5.8.0 -c advice.detachedHead=false checkout release-v5.8.0 --force
+HEAD is now at 01150a0 Update release workflows to run on Ubuntu 18.04 runners (#1575)
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00 -c advice.detachedHead=false checkout 202103.00 --force
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/connectivity-utilities/release-v4.0.0 -c advice.detachedHead=false checkout release-v4.0.0 --force
+HEAD is now at af897d0 Upload aws-iot-device-sdk-port 2.2.2.382
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-port/release-v2.2.2 -c advice.detachedHead=false checkout release-v2.2.2 --force
+Finished processing aws-iot-device-sdk-port
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/core-lib/release-v1.3.1 -c advice.detachedHead=false checkout release-v1.3.1 --force
+HEAD is now at ca896aa Upload connectivity-utilities 4.0.0.1341
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/connectivity-utilities/release-v4.0.0 -c advice.detachedHead=false checkout release-v4.0.0 --force
+Finished processing connectivity-utilities
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/cy-mbedtls-acceleration/release-v1.4.1 -c advice.detachedHead=false checkout release-v1.4.1 --force
+HEAD is now at ce02f64 Upload cmsis 5.8.0.50
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/cmsis/release-v5.8.0 -c advice.detachedHead=false checkout release-v5.8.0 --force
+Finished processing cmsis
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/lwip-freertos-integration/release-v1.0.0 -c advice.detachedHead=false checkout release-v1.0.0 --force
+HEAD is now at 1c1cb8a Upload core-lib 1.3.1.29660
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/core-lib/release-v1.3.1 -c advice.detachedHead=false checkout release-v1.3.1 --force
+Finished processing core-lib
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/freertos/release-v10.4.304 -c advice.detachedHead=false checkout release-v10.4.304 --force
+HEAD is now at 1fe9b63 Upload cy-mbedtls-acceleration 1.4.1.930
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/cy-mbedtls-acceleration/release-v1.4.1 -c advice.detachedHead=false checkout release-v1.4.1 --force
+Finished processing cy-mbedtls-acceleration
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/lwip-network-interface-integration/release-v1.0.0 -c advice.detachedHead=false checkout release-v1.0.0 --force
+HEAD is now at f4797e9 Upload lwip-freertos-integration 1.0.0.19
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/lwip-freertos-integration/release-v1.0.0 -c advice.detachedHead=false checkout release-v1.0.0 --force
+Finished processing lwip-freertos-integration
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/mtb-hal-cat1/release-v2.2.0 -c advice.detachedHead=false checkout release-v2.2.0 --force
+HEAD is now at ec40ef0 Upload freertos 10.4.304.461
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/freertos/release-v10.4.304 -c advice.detachedHead=false checkout release-v10.4.304 --force
+Finished processing freertos
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/mtb-pdl-cat1/release-v3.2.0 -c advice.detachedHead=false checkout release-v3.2.0 --force
+HEAD is now at 845718e Upload lwip-network-interface-integration 1.0.0.203
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/lwip-network-interface-integration/release-v1.0.0 -c advice.detachedHead=false checkout release-v1.0.0 --force
+Finished processing lwip-network-interface-integration
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/recipe-make-cat1a/release-v2.0.0 -c advice.detachedHead=false checkout release-v2.0.0 --force
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/lwip clone --origin cypress --no-checkout --filter=blob:none https://git.savannah.nongnu.org/git/lwip STABLE-2_1_2_RELEASE
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/secure-sockets/release-v3.0.0 -c advice.detachedHead=false checkout release-v3.0.0 --force
+HEAD is now at 28d875a Upload recipe-make-cat1a 2.0.0.4056
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/recipe-make-cat1a/release-v2.0.0 -c advice.detachedHead=false checkout release-v2.0.0 --force
+Finished processing recipe-make-cat1a
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/whd-bsp-integration/release-v2.1.0 -c advice.detachedHead=false checkout release-v2.1.0 --force
+HEAD is now at d672ead Upload mtb-hal-cat1 2.2.0.30598
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/mtb-hal-cat1/release-v2.2.0 -c advice.detachedHead=false checkout release-v2.2.0 --force
+Finished processing mtb-hal-cat1
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/wifi-connection-manager/release-v3.0.0 -c advice.detachedHead=false checkout release-v3.0.0 --force
+HEAD is now at bff5d60 Upload secure-sockets 3.0.0.2312
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/secure-sockets/release-v3.0.0 -c advice.detachedHead=false checkout release-v3.0.0 --force
+Finished processing secure-sockets
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/mbedtls/mbedtls-2.25.0 -c advice.detachedHead=false checkout mbedtls-2.25.0 --force
+HEAD is now at e67d148 Upload whd-bsp-integration 2.1.0.29660
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/whd-bsp-integration/release-v2.1.0 -c advice.detachedHead=false checkout release-v2.1.0 --force
+Finished processing whd-bsp-integration
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/wpa3-external-supplicant/release-v1.1.0 -c advice.detachedHead=false checkout release-v1.1.0 --force
+HEAD is now at a09628f Upload wifi-connection-manager 3.0.0.1660
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/wifi-connection-manager/release-v3.0.0 -c advice.detachedHead=false checkout release-v3.0.0 --force
+Finished processing wifi-connection-manager
+Starting: git -C /Users/socaresabol/.modustoolbox/global/device-db/release-v4.17.0 -c advice.detachedHead=false checkout release-v4.17.0 --force
+HEAD is now at ca71f1d Upload wpa3-external-supplicant 1.1.0.98
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/wpa3-external-supplicant/release-v1.1.0 -c advice.detachedHead=false checkout release-v1.1.0 --force
+Finished processing wpa3-external-supplicant
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/wifi-host-driver/release-v3.2.0 -c advice.detachedHead=false checkout release-v3.2.0 --force
+HEAD is now at 1c54b5410 Merge pull request #786 from ARMmbed/dev/yanesca/mbedtls-2.25.0r0-pr
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/mbedtls/mbedtls-2.25.0 -c advice.detachedHead=false checkout mbedtls-2.25.0 --force
+Finished processing mbedtls
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/core-make/release-v3.0.3 -c advice.detachedHead=false checkout release-v3.0.3 --force
+HEAD is now at 3bd35be Upload mtb-pdl-cat1 3.2.0.20064 [335]
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/mtb-pdl-cat1/release-v3.2.0 -c advice.detachedHead=false checkout release-v3.2.0 --force
+Finished processing mtb-pdl-cat1
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00 -c protocol.file.allow=always submodule update --init --force
+HEAD is now at 9137ac7 Upload core-make 3.0.3.4386 [782]
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/core-make/release-v3.0.3 -c advice.detachedHead=false checkout release-v3.0.3 --force
+Finished processing core-make
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/lwip/STABLE-2_1_2_RELEASE -c advice.detachedHead=false checkout STABLE-2_1_2_RELEASE --force
+HEAD is now at 159e31b6 Prepare 2.1.2 release
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/lwip/STABLE-2_1_2_RELEASE -c advice.detachedHead=false checkout STABLE-2_1_2_RELEASE --force
+Finished processing lwip
+Submodule 'demos/jobs/jobs_demo_mosquitto/libmosquitto' (https://github.com/eclipse/mosquitto.git) registered for path 'demos/jobs/jobs_demo_mosquitto/libmosquitto'
+Submodule 'libraries/3rdparty/CMock' (https://github.com/ThrowTheSwitch/CMock) registered for path 'libraries/3rdparty/CMock'
+Submodule 'libraries/aws/device-defender-for-aws-iot-embedded-sdk' (https://github.com/aws/device-defender-for-aws-iot-embedded-sdk.git) registered for path 'libraries/aws/device-defender-for-aws-iot-embedded-sdk'
+Submodule 'libraries/aws/device-shadow-for-aws-iot-embedded-sdk' (https://github.com/aws/device-shadow-for-aws-iot-embedded-sdk.git) registered for path 'libraries/aws/device-shadow-for-aws-iot-embedded-sdk'
+Submodule 'libraries/aws/jobs-for-aws-iot-embedded-sdk' (https://github.com/aws/jobs-for-aws-iot-embedded-sdk.git) registered for path 'libraries/aws/jobs-for-aws-iot-embedded-sdk'
+Submodule 'libraries/aws/ota-for-aws-iot-embedded-sdk' (https://github.com/aws/ota-for-aws-iot-embedded-sdk.git) registered for path 'libraries/aws/ota-for-aws-iot-embedded-sdk'
+Submodule 'libraries/standard/backoffAlgorithm' (https://github.com/FreeRTOS/backoffAlgorithm.git) registered for path 'libraries/standard/backoffAlgorithm'
+Submodule 'libraries/standard/coreHTTP' (https://github.com/FreeRTOS/coreHTTP.git) registered for path 'libraries/standard/coreHTTP'
+Submodule 'libraries/standard/coreJSON' (https://github.com/FreeRTOS/coreJSON.git) registered for path 'libraries/standard/coreJSON'
+Submodule 'libraries/standard/coreMQTT' (https://github.com/FreeRTOS/coreMQTT.git) registered for path 'libraries/standard/coreMQTT'
+Submodule 'libraries/standard/corePKCS11' (https://github.com/FreeRTOS/corePKCS11.git) registered for path 'libraries/standard/corePKCS11'
+Cloning into '/Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/demos/jobs/jobs_demo_mosquitto/libmosquitto'...
+HEAD is now at e956f2bb Upload device-db 4.17.0.6514 [2618]
+Success: git -C /Users/socaresabol/.modustoolbox/global/device-db/release-v4.17.0 -c advice.detachedHead=false checkout release-v4.17.0 --force
+Finished processing device-db
+HEAD is now at 55639e2 Upload wifi-host-driver 3.2.0.23895 [2502]
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/wifi-host-driver/release-v3.2.0 -c advice.detachedHead=false checkout release-v3.2.0 --force
+Finished processing wifi-host-driver
+Cloning into '/Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/3rdparty/CMock'...
+Cloning into '/Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/device-defender-for-aws-iot-embedded-sdk'...
+Cloning into '/Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/device-shadow-for-aws-iot-embedded-sdk'...
+Cloning into '/Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/jobs-for-aws-iot-embedded-sdk'...
+Cloning into '/Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/ota-for-aws-iot-embedded-sdk'...
+Cloning into '/Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/backoffAlgorithm'...
+Cloning into '/Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/coreHTTP'...
+Cloning into '/Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/coreJSON'...
+Cloning into '/Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/coreMQTT'...
+Cloning into '/Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/corePKCS11'...
+Submodule path 'demos/jobs/jobs_demo_mosquitto/libmosquitto': checked out '0bdf630c2757047dcbf1fd3ad6b7a245addd87fa'
+Submodule path 'libraries/3rdparty/CMock': checked out '150573c742ce15061a0b675aa0f8e29c85008062'
+Submodule path 'libraries/aws/device-defender-for-aws-iot-embedded-sdk': checked out '548b4688b26d16d0e6134d7d93dcbae103994e40'
+Submodule path 'libraries/aws/device-shadow-for-aws-iot-embedded-sdk': checked out 'ff5a3e174ca8f805051c14d9c15b500196e3f79a'
+Submodule path 'libraries/aws/jobs-for-aws-iot-embedded-sdk': checked out '19788445bca7f8f85167c83ac12379d3d1022295'
+Submodule path 'libraries/aws/ota-for-aws-iot-embedded-sdk': checked out '666241d0f643b07d5146a3715b649d80f8135e0b'
+Submodule path 'libraries/standard/backoffAlgorithm': checked out '741697917a5b9264cd5c11e54e23ce3fe3472636'
+Submodule path 'libraries/standard/coreHTTP': checked out '88c836c18f46c5ab862810f56b023ecb2ddf7b7b'
+Submodule path 'libraries/standard/coreJSON': checked out '19b48dbf1b1f8753d61d8e2916137904ce12b293'
+Submodule path 'libraries/standard/coreMQTT': checked out 'ffb68182abfab5e2b9df6ac24b17e3e0fec7b67f'
+Submodule path 'libraries/standard/corePKCS11': checked out 'a739b86f90bde81aeea19dab6315250983730211'
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00 -c protocol.file.allow=always submodule update --init --force
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/3rdparty/CMock -c protocol.file.allow=always submodule update --init --force
+Submodule 'vendor/c_exception' (https://github.com/throwtheswitch/cexception.git) registered for path 'vendor/c_exception'
+Submodule 'vendor/unity' (https://github.com/throwtheswitch/unity.git) registered for path 'vendor/unity'
+Cloning into '/Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/3rdparty/CMock/vendor/c_exception'...
+Cloning into '/Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/3rdparty/CMock/vendor/unity'...
+Submodule path 'vendor/c_exception': checked out '71b47be7c950f1bf5f7e5303779fa99a16224bb6'
+Submodule path 'vendor/unity': checked out 'cf949f45ca6d172a177b00da21310607b97bc7a7'
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/3rdparty/CMock -c protocol.file.allow=always submodule update --init --force
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/device-defender-for-aws-iot-embedded-sdk -c protocol.file.allow=always submodule update --init --force
+Submodule 'test/cbmc/aws-templates-for-cbmc-proofs' (https://github.com/awslabs/aws-templates-for-cbmc-proofs.git) registered for path 'test/cbmc/aws-templates-for-cbmc-proofs'
+Submodule 'test/cbmc/litani' (https://github.com/awslabs/aws-build-accumulator) registered for path 'test/cbmc/litani'
+Submodule 'test/unit-test/Unity' (https://github.com/ThrowTheSwitch/Unity) registered for path 'test/unit-test/Unity'
+Skipping submodule 'test/cbmc/aws-templates-for-cbmc-proofs'
+Skipping submodule 'test/cbmc/litani'
+Skipping submodule 'test/unit-test/Unity'
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/device-defender-for-aws-iot-embedded-sdk -c protocol.file.allow=always submodule update --init --force
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/device-shadow-for-aws-iot-embedded-sdk -c protocol.file.allow=always submodule update --init --force
+Submodule 'test/cbmc/aws-templates-for-cbmc-proofs' (https://github.com/awslabs/aws-templates-for-cbmc-proofs.git) registered for path 'test/cbmc/aws-templates-for-cbmc-proofs'
+Submodule 'test/cbmc/litani' (https://github.com/awslabs/aws-build-accumulator) registered for path 'test/cbmc/litani'
+Submodule 'test/unit-test/CMock' (https://github.com/ThrowTheSwitch/CMock) registered for path 'test/unit-test/CMock'
+Skipping submodule 'test/cbmc/aws-templates-for-cbmc-proofs'
+Skipping submodule 'test/cbmc/litani'
+Skipping submodule 'test/unit-test/CMock'
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/device-shadow-for-aws-iot-embedded-sdk -c protocol.file.allow=always submodule update --init --force
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/jobs-for-aws-iot-embedded-sdk -c protocol.file.allow=always submodule update --init --force
+Submodule 'test/cbmc/aws-templates-for-cbmc-proofs' (https://github.com/awslabs/aws-templates-for-cbmc-proofs.git) registered for path 'test/cbmc/aws-templates-for-cbmc-proofs'
+Submodule 'test/cbmc/litani' (https://github.com/awslabs/aws-build-accumulator) registered for path 'test/cbmc/litani'
+Submodule 'test/unit-test/Unity' (https://github.com/ThrowTheSwitch/Unity) registered for path 'test/unit-test/Unity'
+Skipping submodule 'test/cbmc/aws-templates-for-cbmc-proofs'
+Skipping submodule 'test/cbmc/litani'
+Skipping submodule 'test/unit-test/Unity'
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/jobs-for-aws-iot-embedded-sdk -c protocol.file.allow=always submodule update --init --force
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/ota-for-aws-iot-embedded-sdk -c protocol.file.allow=always submodule update --init --force
+Submodule 'tinycbor' (https://github.com/intel/tinycbor.git) registered for path 'source/dependency/3rdparty/tinycbor'
+Submodule 'coreJSON' (https://github.com/FreeRTOS/coreJSON.git) registered for path 'source/dependency/coreJSON'
+Submodule 'test/unit-test/CMock' (https://github.com/ThrowTheSwitch/CMock.git) registered for path 'test/unit-test/CMock'
+Cloning into '/Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/ota-for-aws-iot-embedded-sdk/source/dependency/3rdparty/tinycbor'...
+Cloning into '/Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/ota-for-aws-iot-embedded-sdk/source/dependency/coreJSON'...
+Skipping submodule 'test/unit-test/CMock'
+Submodule path 'source/dependency/3rdparty/tinycbor': checked out '9924cfed3b95ad6de299ae675064430fdb886216'
+Submodule path 'source/dependency/coreJSON': checked out '97a906a2761b71434ffa9d838cd0500543b7dadc'
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/ota-for-aws-iot-embedded-sdk -c protocol.file.allow=always submodule update --init --force
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/backoffAlgorithm -c protocol.file.allow=always submodule update --init --force
+Submodule 'test/unit-test/Unity' (https://github.com/ThrowTheSwitch/Unity) registered for path 'test/unit-test/Unity'
+Skipping submodule 'test/unit-test/Unity'
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/backoffAlgorithm -c protocol.file.allow=always submodule update --init --force
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/coreHTTP -c protocol.file.allow=always submodule update --init --force
+Submodule 'source/dependency/3rdparty/http_parser' (https://github.com/nodejs/http-parser.git) registered for path 'source/dependency/3rdparty/http_parser'
+Submodule 'test/cbmc/aws-templates-for-cbmc-proofs' (https://github.com/awslabs/aws-templates-for-cbmc-proofs.git) registered for path 'test/cbmc/aws-templates-for-cbmc-proofs'
+Submodule 'test/cbmc/litani' (https://github.com/awslabs/aws-build-accumulator) registered for path 'test/cbmc/litani'
+Submodule 'test/unit-test/CMock' (https://github.com/ThrowTheSwitch/CMock.git) registered for path 'test/unit-test/CMock'
+Cloning into '/Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/coreHTTP/source/dependency/3rdparty/http_parser'...
+Skipping submodule 'test/cbmc/aws-templates-for-cbmc-proofs'
+Skipping submodule 'test/cbmc/litani'
+Skipping submodule 'test/unit-test/CMock'
+Submodule path 'source/dependency/3rdparty/http_parser': checked out 'ec8b5ee63f0e51191ea43bb0c6eac7bfbff3141d'
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/coreHTTP -c protocol.file.allow=always submodule update --init --force
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/coreJSON -c protocol.file.allow=always submodule update --init --force
+Submodule 'test/cbmc/aws-templates-for-cbmc-proofs' (https://github.com/awslabs/aws-templates-for-cbmc-proofs.git) registered for path 'test/cbmc/aws-templates-for-cbmc-proofs'
+Submodule 'test/cbmc/litani' (https://github.com/awslabs/aws-build-accumulator) registered for path 'test/cbmc/litani'
+Submodule 'test/unit-test/Unity' (https://github.com/ThrowTheSwitch/Unity) registered for path 'test/unit-test/Unity'
+Skipping submodule 'test/cbmc/aws-templates-for-cbmc-proofs'
+Skipping submodule 'test/cbmc/litani'
+Skipping submodule 'test/unit-test/Unity'
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/coreJSON -c protocol.file.allow=always submodule update --init --force
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/coreMQTT -c protocol.file.allow=always submodule update --init --force
+Submodule 'test/cbmc/aws-templates-for-cbmc-proofs' (https://github.com/awslabs/aws-templates-for-cbmc-proofs.git) registered for path 'test/cbmc/aws-templates-for-cbmc-proofs'
+Submodule 'test/cbmc/litani' (https://github.com/awslabs/aws-build-accumulator) registered for path 'test/cbmc/litani'
+Submodule 'test/unit-test/CMock' (https://github.com/ThrowTheSwitch/CMock) registered for path 'test/unit-test/CMock'
+Skipping submodule 'test/cbmc/aws-templates-for-cbmc-proofs'
+Skipping submodule 'test/cbmc/litani'
+Skipping submodule 'test/unit-test/CMock'
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/coreMQTT -c protocol.file.allow=always submodule update --init --force
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/corePKCS11 -c protocol.file.allow=always submodule update --init --force
+Submodule 'source/dependency/3rdparty/mbedtls' (https://github.com/ARMmbed/mbedtls.git) registered for path 'source/dependency/3rdparty/mbedtls'
+Submodule 'source/dependency/3rdparty/pkcs11' (https://github.com/amazon-freertos/pkcs11.git) registered for path 'source/dependency/3rdparty/pkcs11'
+Submodule 'test/cbmc/aws-templates-for-cbmc-proofs' (https://github.com/awslabs/aws-templates-for-cbmc-proofs) registered for path 'test/cbmc/aws-templates-for-cbmc-proofs'
+Submodule 'test/cbmc/litani' (https://github.com/awslabs/aws-build-accumulator.git) registered for path 'test/cbmc/litani'
+Submodule 'test/unit-test/CMock' (https://github.com/ThrowTheSwitch/CMock.git) registered for path 'test/unit-test/CMock'
+Skipping submodule 'source/dependency/3rdparty/mbedtls'
+Cloning into '/Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/corePKCS11/source/dependency/3rdparty/pkcs11'...
+Skipping submodule 'test/cbmc/aws-templates-for-cbmc-proofs'
+Skipping submodule 'test/cbmc/litani'
+Skipping submodule 'test/unit-test/CMock'
+Submodule path 'source/dependency/3rdparty/pkcs11': checked out '9304ef6842d08d881ccd1daa8d3a428f3a9671ee'
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/standard/corePKCS11 -c protocol.file.allow=always submodule update --init --force
+Starting: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/ota-for-aws-iot-embedded-sdk/source/dependency/coreJSON -c protocol.file.allow=always submodule update --init --force
+Submodule 'test/cbmc/aws-templates-for-cbmc-proofs' (https://github.com/awslabs/aws-templates-for-cbmc-proofs.git) registered for path 'test/cbmc/aws-templates-for-cbmc-proofs'
+Submodule 'test/cbmc/litani' (https://github.com/awslabs/aws-build-accumulator) registered for path 'test/cbmc/litani'
+Submodule 'test/unit-test/Unity' (https://github.com/ThrowTheSwitch/Unity) registered for path 'test/unit-test/Unity'
+Skipping submodule 'test/cbmc/aws-templates-for-cbmc-proofs'
+Skipping submodule 'test/cbmc/litani'
+Skipping submodule 'test/unit-test/Unity'
+Success: git -C /Users/socaresabol/Downloads/mtb_shared/aws-iot-device-sdk-embedded-C/202103.00/libraries/aws/ota-for-aws-iot-embedded-sdk/source/dependency/coreJSON -c protocol.file.allow=always submodule update --init --force
+Finished processing aws-iot-device-sdk-embedded-C
+Successfully committed changes to the project 'mtb-example-psoc6-freertos-wifi-mqtt-client'.
+Migrated from the legacy latest-locking history file (/Users/socaresabol/Downloads/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/deps/locking_commit.log) to the new one (/Users/socaresabol/Downloads/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/deps/assetlocks.json)
+
+0 error(s), 0 warning(s)
+Successfully updated application "FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template"
+Updating Launch Configurations ...
+Calling "make eclipse" ...
+WARNING:Failed to update PATH environment variable.
+
+Tools Directory: /Applications/ModusToolbox/tools_3.2
+Searching installed tools in progress...
+Searching installed tools complete
+Prebuild operations complete
+Auto-discovery in progress...
+Auto-discovery complete
+Commencing build operations...
+Tools Directory: /Applications/ModusToolbox/tools_3.2
+Initializing build: mtb-example-psoc6-freertos-wifi-mqtt-client Debug APP_CY8CKIT-062S2-43012 GCC_ARM
+Constructing build rules...
+Build rules construction complete
+==============================================================================
+= Generating IDE files =
+==============================================================================
+Generated /Users/socaresabol/Downloads/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/.mtbLaunchConfigs/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template Attach (JLink).launch
+Generated /Users/socaresabol/Downloads/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/.mtbLaunchConfigs/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template Attach (KitProg3_MiniProg4).launch
+Generated /Users/socaresabol/Downloads/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/.mtbLaunchConfigs/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template Debug (JLink).launch
+Generated /Users/socaresabol/Downloads/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/.mtbLaunchConfigs/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template Debug (KitProg3_MiniProg4).launch
+Generated /Users/socaresabol/Downloads/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/.mtbLaunchConfigs/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template Erase (JLink).launch
+Generated /Users/socaresabol/Downloads/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/.mtbLaunchConfigs/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template Erase (KitProg3_MiniProg4).launch
+Generated /Users/socaresabol/Downloads/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/.mtbLaunchConfigs/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template Program (JLink).launch
+Generated /Users/socaresabol/Downloads/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/.mtbLaunchConfigs/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template Program (KitProg3_MiniProg4).launch
+INFO: The /Users/socaresabol/Downloads/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/.project already exist and will not be regenerated
+INFO: The /Users/socaresabol/Downloads/FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template/.cproject already exist and will not be regenerated
+Instructions:
+1. Open Eclipse IDE for ModusToolbox
+2. Select 'Import Existing Application In-Place' from the QuickPanel
+3. Browse to the application root directory
+  
+"make eclipse" succeeded
+
+Starting to refresh dependencies for project 'mtb-example-psoc6-freertos-wifi-mqtt-client'.
+Refreshed all dependencies for project 'mtb-example-psoc6-freertos-wifi-mqtt-client'.
+Warning: Multiple versions of "https://github.com/cypresssemiconductorco/core-make" requested. Keeping version "release-v3.0.3" and discarding version "release-v3.0.2".
+
+
+Summary:
+Successfully updated application "FreeRTOS_with_BDH_Shell_-_WiFi_-_MQTT_Template"
+Successfully refreshed dependencies.
+Done.

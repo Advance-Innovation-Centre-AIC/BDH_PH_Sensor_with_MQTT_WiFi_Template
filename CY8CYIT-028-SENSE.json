@@ -1,0 +1,212 @@
+{
+    "frameEnd": "",
+    "frameStart": "",
+    "groups": [
+        {
+            "datasets": [
+                {
+                    "alarm": 1200,
+                    "fft": false,
+                    "fftSamples": 1024,
+                    "graph": false,
+                    "led": false,
+                    "log": false,
+                    "max": 17.822,
+                    "min": 17.82,
+                    "title": "Pressure",
+                    "units": "hPa",
+                    "value": "%2",
+                    "widget": "gauge"
+                }
+            ],
+            "title": "Pressure",
+            "widget": "multiplot"
+        },
+        {
+            "datasets": [
+                {
+                    "alarm": 0,
+                    "fft": false,
+                    "fftSamples": 1024,
+                    "graph": false,
+                    "led": false,
+                    "log": false,
+                    "max": 0,
+                    "min": 0,
+                    "title": "Temperature",
+                    "units": "C",
+                    "value": "%3",
+                    "widget": ""
+                }
+            ],
+            "title": "Temperature",
+            "widget": "multiplot"
+        },
+        {
+            "datasets": [
+                {
+                    "alarm": 0,
+                    "fft": false,
+                    "fftSamples": 1024,
+                    "graph": false,
+                    "led": false,
+                    "log": false,
+                    "max": 0,
+                    "min": 0,
+                    "title": "Accelerometer X",
+                    "units": "m/s²",
+                    "value": "%4",
+                    "widget": "x"
+                },
+                {
+                    "alarm": 0,
+                    "fft": false,
+                    "fftSamples": 1024,
+                    "graph": false,
+                    "led": false,
+                    "log": false,
+                    "max": 0,
+                    "min": 0,
+                    "title": "Accelerometer Y",
+                    "units": "m/s²",
+                    "value": "%5",
+                    "widget": "y"
+                },
+                {
+                    "alarm": 0,
+                    "fft": false,
+                    "fftSamples": 1024,
+                    "graph": false,
+                    "led": false,
+                    "log": false,
+                    "max": 0,
+                    "min": 0,
+                    "title": "Accelerometer Z",
+                    "units": "m/s²",
+                    "value": "%6",
+                    "widget": "z"
+                }
+            ],
+            "title": "Accelerometer",
+            "widget": "accelerometer"
+        },
+        {
+            "datasets": [
+                {
+                    "alarm": 0,
+                    "fft": false,
+                    "fftSamples": 1024,
+                    "graph": false,
+                    "led": false,
+                    "log": false,
+                    "max": 0,
+                    "min": 0,
+                    "title": "Gyroscope X",
+                    "units": "rad/s",
+                    "value": "%7",
+                    "widget": "x"
+                },
+                {
+                    "alarm": 0,
+                    "fft": false,
+                    "fftSamples": 1024,
+                    "graph": false,
+                    "led": false,
+                    "log": false,
+                    "max": 0,
+                    "min": 0,
+                    "title": "Gyroscope Y",
+                    "units": "rad/s",
+                    "value": "%8",
+                    "widget": "y"
+                },
+                {
+                    "alarm": 0,
+                    "fft": false,
+                    "fftSamples": 1024,
+                    "graph": false,
+                    "led": false,
+                    "log": false,
+                    "max": 0,
+                    "min": 0,
+                    "title": "Gyroscope Z",
+                    "units": "rad/s",
+                    "value": "%9",
+                    "widget": "z"
+                }
+            ],
+            "title": "Gyrometer",
+            "widget": "accelerometer"
+        },
+        {
+            "datasets": [
+                {
+                    "alarm": 0,
+                    "fft": false,
+                    "fftSamples": 1024,
+                    "graph": false,
+                    "led": false,
+                    "log": false,
+                    "max": 0,
+                    "min": 0,
+                    "title": "Magnetometer X",
+                    "units": "μT",
+                    "value": "%10",
+                    "widget": "x"
+                },
+                {
+                    "alarm": 0,
+                    "fft": false,
+                    "fftSamples": 1024,
+                    "graph": false,
+                    "led": false,
+                    "log": false,
+                    "max": 0,
+                    "min": 0,
+                    "title": "Magnetometer Y",
+                    "units": "μT",
+                    "value": "%11",
+                    "widget": "y"
+                },
+                {
+                    "alarm": 0,
+                    "fft": false,
+                    "fftSamples": 1024,
+                    "graph": false,
+                    "led": false,
+                    "log": false,
+                    "max": 0,
+                    "min": 0,
+                    "title": "Magnetometer Z",
+                    "units": "μT",
+                    "value": "%12",
+                    "widget": "z"
+                }
+            ],
+            "title": "Magnetometer",
+            "widget": "accelerometer"
+        },
+        {
+            "datasets": [
+                {
+                    "alarm": 20,
+                    "fft": false,
+                    "fftSamples": 1024,
+                    "graph": false,
+                    "led": false,
+                    "log": false,
+                    "max": 20,
+                    "min": 0,
+                    "title": "Valume",
+                    "units": "",
+                    "value": "%14",
+                    "widget": "bar"
+                }
+            ],
+            "title": "Audio",
+            "widget": ""
+        }
+    ],
+    "separator": "",
+    "title": "CY8CKIT-028-SENSE"
+}

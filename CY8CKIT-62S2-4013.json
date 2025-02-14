@@ -1,0 +1,116 @@
+{
+    "frameEnd": "",
+    "frameStart": "",
+    "groups": [
+        {
+            "datasets": [
+                {
+                    "alarm": 25,
+                    "fft": false,
+                    "fftSamples": 1024,
+                    "graph": true,
+                    "led": false,
+                    "log": false,
+                    "max": 25,
+                    "min": 0,
+                    "title": "Voltage",
+                    "units": "V",
+                    "value": "%4",
+                    "widget": ""
+                }
+            ],
+            "title": "Potentionmeter",
+            "widget": ""
+        },
+        {
+            "datasets": [
+                {
+                    "alarm": 0,
+                    "fft": false,
+                    "fftSamples": 1024,
+                    "graph": false,
+                    "led": true,
+                    "log": false,
+                    "max": 0,
+                    "min": 0,
+                    "title": "User Button1",
+                    "units": "",
+                    "value": "%2",
+                    "widget": ""
+                },
+                {
+                    "alarm": 0,
+                    "fft": false,
+                    "fftSamples": 1024,
+                    "graph": false,
+                    "led": true,
+                    "log": false,
+                    "max": 0,
+                    "min": 0,
+                    "title": "User Button2",
+                    "units": "",
+                    "value": "%3",
+                    "widget": ""
+                }
+            ],
+            "title": "User Button",
+            "widget": ""
+        },
+        {
+            "datasets": [
+                {
+                    "alarm": 0,
+                    "fft": false,
+                    "fftSamples": 1024,
+                    "graph": false,
+                    "led": true,
+                    "log": false,
+                    "max": 0,
+                    "min": 0,
+                    "title": "Cap Button1",
+                    "units": "",
+                    "value": "%5",
+                    "widget": ""
+                },
+                {
+                    "alarm": 0,
+                    "fft": false,
+                    "fftSamples": 1024,
+                    "graph": false,
+                    "led": true,
+                    "log": false,
+                    "max": 0,
+                    "min": 0,
+                    "title": "Cap Button2",
+                    "units": "",
+                    "value": "%6",
+                    "widget": ""
+                }
+            ],
+            "title": "Capsense Button",
+            "widget": ""
+        },
+        {
+            "datasets": [
+                {
+                    "alarm": 100,
+                    "fft": false,
+                    "fftSamples": 1024,
+                    "graph": false,
+                    "led": false,
+                    "log": false,
+                    "max": 100,
+                    "min": 0,
+                    "title": "Cap Slider",
+                    "units": "",
+                    "value": "%7",
+                    "widget": "bar"
+                }
+            ],
+            "title": "Capsense Slider",
+            "widget": ""
+        }
+    ],
+    "separator": "",
+    "title": "CY8CKIT-62S2-40312 Datasets"
+}
